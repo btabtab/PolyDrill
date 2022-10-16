@@ -12,6 +12,8 @@
 		"entity.h": "c",
 		"dynalloccore.h": "c",
 		"demos.h": "c",
-		"genericfunctions.h": "c"
+		"genericfunctions.h": "c",
+		"kettlestring.h": "c",
+		"kettlerenderer.h": "c"
 	}
 }
